@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👾 I Have a bachelor's degree in Computer science, focusing primarily on Game programming<br>👯 I'm looking to collaborate on any project that can help me increase my coding ability<br>⚡ I'm developing my Web Development Abilities, working on programming and design aspects<br>💻 Aspiring Full Stack Engerneer.<br>🔭 Currently working on Web Development<br>🐛 Contact me at brycereading.uo@gmail.com<br>Programing Languages:<br><br>C++<br>C#<br>CSS<br>HTML
+👾 I Have a bachelor's degree in Computer science, focusing primarily on Game programming<br>👯 I'm looking to collaborate on any project that can help me increase my coding ability<br>⚡ I'm developing my Web Development Abilities, working on programming and design aspects<br>💻 Aspiring Full Stack Engerneer.<br>🔭 Currently working on Web Development<br>
 
 
 ## 🌐 Socials:
